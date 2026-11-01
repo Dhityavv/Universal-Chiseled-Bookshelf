@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "universal_chiseled_bookshelf",
+  "version": "1.0.0",
+  "name": "Universal Chiseled Bookshelf",
+  "description": "Expands vanilla Chiseled Bookshelves to hold armor trims, books, maps, paper, banner patterns, navigation items, and music discs, with an optional customizable preview HUD.",
+  "icon": "assets/universal_chiseled_bookshelf/icon.png",
+  "authors": ["Dhityavv"],
+  "license": "CC0-1.0",
+  "contact": {
+    "homepage": "https://modrinth.com/mod/universal-chiseled-bookshelf",
+    "issues": "https://github.com/Dhityavv/Universal-Chiseled-Bookshelf/issues"
+  },
+  "environment": "*",
+  "mixins": ["universal_chiseled_bookshelf.mixins.json"],
+  "entrypoints": {
+    "main": ["com.universalchiseledbookshelf.UniversalChiseledBookshelfNetworking"],
+    "client": ["com.universalchiseledbookshelf.UniversalChiseledBookshelfClient"],
+    "modmenu": ["com.universalchiseledbookshelf.UniversalChiseledBookshelfModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

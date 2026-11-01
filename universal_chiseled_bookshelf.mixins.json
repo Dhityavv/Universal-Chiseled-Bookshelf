@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.universalchiseledbookshelf.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ChiseledBookShelfBlockMixin",
+    "ChiseledBookShelfBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

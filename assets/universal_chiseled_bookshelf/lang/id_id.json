@@ -1,0 +1,9 @@
+{
+  "gui.universal_chiseled_bookshelf.slot_preview": "ISI RAK BUKU",
+  "gui.universal_chiseled_bookshelf.trim_pattern": "POLA ARMOR TRIM",
+  "gui.universal_chiseled_bookshelf.trimmed_armor": "ARMOR DENGAN TRIM",
+  "gui.universal_chiseled_bookshelf.empty_slot": "Slot rak buku kosong",
+  "gui.universal_chiseled_bookshelf.empty_hint": "Siap diisi",
+  "gui.universal_chiseled_bookshelf.loading_item": "Memuat item...",
+  "gui.universal_chiseled_bookshelf.loading_hint": "Membaca isi rak"
+}

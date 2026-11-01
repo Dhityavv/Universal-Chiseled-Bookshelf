@@ -1,0 +1,9 @@
+{
+  "gui.universal_chiseled_bookshelf.slot_preview": "BOOKSHELF SLOT",
+  "gui.universal_chiseled_bookshelf.trim_pattern": "ARMOR TRIM PATTERN",
+  "gui.universal_chiseled_bookshelf.trimmed_armor": "TRIMMED ARMOR",
+  "gui.universal_chiseled_bookshelf.empty_slot": "Empty bookshelf slot",
+  "gui.universal_chiseled_bookshelf.empty_hint": "Ready to fill",
+  "gui.universal_chiseled_bookshelf.loading_item": "Loading item...",
+  "gui.universal_chiseled_bookshelf.loading_hint": "Reading bookshelf"
+}
