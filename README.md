@@ -57,8 +57,8 @@ Open the mod settings from Mod Menu to:
 
 - [Modrinth](https://modrinth.com/mod/universal-chiseled-bookshelf)
 - [Issue Tracker](https://github.com/Dhityavv/universal-chiseled-bookshelf/issues)
-- [Ko-fi](LINK_KO_FI_KAMU)
-- [Saweria](LINK_SAWERIA_KAMU)
+- [Ko-fi](https://ko-fi.com/dhityavv#payment-widget)
+- [Saweria](https://saweria.co/dhityavv)
 
 ## Support
 
